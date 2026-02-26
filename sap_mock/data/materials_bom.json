@@ -1,0 +1,509 @@
+[
+  {
+    "MATNR": "MAT-MOTOR",
+    "MAKTX": "Spare Motor",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 3,
+    "EKGRP": "OCP",
+    "NETPR": 509.09,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "f8763246-192e-4c5f-af45-d15b7eea6f64"
+    ]
+  },
+  {
+    "MATNR": "MAT-GEARBOX",
+    "MAKTX": "Spare Gearbox",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 3,
+    "EKGRP": "OCP",
+    "NETPR": 1826.95,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "f8763246-192e-4c5f-af45-d15b7eea6f64"
+    ]
+  },
+  {
+    "MATNR": "MAT-COUPLING",
+    "MAKTX": "Spare Coupling",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 11,
+    "EKGRP": "OCP",
+    "NETPR": 3038.44,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "f8763246-192e-4c5f-af45-d15b7eea6f64"
+    ]
+  },
+  {
+    "MATNR": "MAT-DRIVE-BELT",
+    "MAKTX": "Spare Drive Belt",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 1,
+    "EKGRP": "OCP",
+    "NETPR": 3662.17,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "f8763246-192e-4c5f-af45-d15b7eea6f64"
+    ]
+  },
+  {
+    "MATNR": "MAT-LINER",
+    "MAKTX": "Spare Liner",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 17,
+    "EKGRP": "OCP",
+    "NETPR": 667.89,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "6fe5e2d2-ee63-4318-bc11-7f2450682e1c"
+    ]
+  },
+  {
+    "MATNR": "MAT-LIFTER-BAR",
+    "MAKTX": "Spare Lifter Bar",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 12,
+    "EKGRP": "OCP",
+    "NETPR": 440.06,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "6fe5e2d2-ee63-4318-bc11-7f2450682e1c"
+    ]
+  },
+  {
+    "MATNR": "MAT-SHELL",
+    "MAKTX": "Spare Shell",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 9,
+    "EKGRP": "OCP",
+    "NETPR": 4155.55,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "6fe5e2d2-ee63-4318-bc11-7f2450682e1c"
+    ]
+  },
+  {
+    "MATNR": "MAT-FEED-CHUTE",
+    "MAKTX": "Spare Feed Chute",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 19,
+    "EKGRP": "OCP",
+    "NETPR": 4432.99,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "6088bf3e-d514-4a1e-82c5-11df58e20b2a"
+    ]
+  },
+  {
+    "MATNR": "MAT-FEED-TRUNNION",
+    "MAKTX": "Spare Feed Trunnion",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 11,
+    "EKGRP": "OCP",
+    "NETPR": 2907.89,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "6088bf3e-d514-4a1e-82c5-11df58e20b2a"
+    ]
+  },
+  {
+    "MATNR": "MAT-DISCHARGE-TRUNNION",
+    "MAKTX": "Spare Discharge Trunnion",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 2,
+    "EKGRP": "OCP",
+    "NETPR": 276.83,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "c92eb5bc-2974-4452-8cd8-80679b823bb1"
+    ]
+  },
+  {
+    "MATNR": "MAT-TROMMEL-SCREEN",
+    "MAKTX": "Spare Trommel Screen",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 7,
+    "EKGRP": "OCP",
+    "NETPR": 3876.69,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "c92eb5bc-2974-4452-8cd8-80679b823bb1"
+    ]
+  },
+  {
+    "MATNR": "MAT-LUBE-PUMP",
+    "MAKTX": "Spare Lube Pump",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 2,
+    "EKGRP": "OCP",
+    "NETPR": 4283.82,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "5484b945-81c7-4ba5-8712-49f602f7485a"
+    ]
+  },
+  {
+    "MATNR": "MAT-FILTER",
+    "MAKTX": "Spare Filter",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 3,
+    "EKGRP": "OCP",
+    "NETPR": 1931.62,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "5484b945-81c7-4ba5-8712-49f602f7485a"
+    ]
+  },
+  {
+    "MATNR": "MAT-COOLER",
+    "MAKTX": "Spare Cooler",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 14,
+    "EKGRP": "OCP",
+    "NETPR": 3196.64,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "5484b945-81c7-4ba5-8712-49f602f7485a"
+    ]
+  },
+  {
+    "MATNR": "MAT-OIL-RESERVOIR",
+    "MAKTX": "Spare Oil Reservoir",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 11,
+    "EKGRP": "OCP",
+    "NETPR": 855.14,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "5484b945-81c7-4ba5-8712-49f602f7485a"
+    ]
+  },
+  {
+    "MATNR": "MAT-MAIN-COMPONENT",
+    "MAKTX": "Spare Main Component",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 11,
+    "EKGRP": "OCP",
+    "NETPR": 1087.06,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "147a4bd4-a452-4077-82be-add693c7305c"
+    ]
+  },
+  {
+    "MATNR": "MAT-SECONDARY-COMPONENT",
+    "MAKTX": "Spare Secondary Component",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 8,
+    "EKGRP": "OCP",
+    "NETPR": 3524.01,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "147a4bd4-a452-4077-82be-add693c7305c"
+    ]
+  },
+  {
+    "MATNR": "MAT-AUXILIARY",
+    "MAKTX": "Spare Auxiliary",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 20,
+    "EKGRP": "OCP",
+    "NETPR": 403.44,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "147a4bd4-a452-4077-82be-add693c7305c"
+    ]
+  },
+  {
+    "MATNR": "MAT-AGITATOR-MOTOR",
+    "MAKTX": "Spare Agitator Motor",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 20,
+    "EKGRP": "OCP",
+    "NETPR": 897.14,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "52c28a9a-1df2-4d38-a2fe-9ae7938fbc0e"
+    ]
+  },
+  {
+    "MATNR": "MAT-IMPELLER",
+    "MAKTX": "Spare Impeller",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 7,
+    "EKGRP": "OCP",
+    "NETPR": 858.84,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "52c28a9a-1df2-4d38-a2fe-9ae7938fbc0e"
+    ]
+  },
+  {
+    "MATNR": "MAT-SHAFT",
+    "MAKTX": "Spare Shaft",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 12,
+    "EKGRP": "OCP",
+    "NETPR": 1386.24,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "52c28a9a-1df2-4d38-a2fe-9ae7938fbc0e"
+    ]
+  },
+  {
+    "MATNR": "MAT-BLOWER",
+    "MAKTX": "Spare Blower",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 20,
+    "EKGRP": "OCP",
+    "NETPR": 3456.4,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "abfac613-a7de-4cf4-a43f-b2a782861daf"
+    ]
+  },
+  {
+    "MATNR": "MAT-AIR-PIPE",
+    "MAKTX": "Spare Air Pipe",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 7,
+    "EKGRP": "OCP",
+    "NETPR": 3438.84,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "abfac613-a7de-4cf4-a43f-b2a782861daf"
+    ]
+  },
+  {
+    "MATNR": "MAT-SPARGER",
+    "MAKTX": "Spare Sparger",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 1,
+    "EKGRP": "OCP",
+    "NETPR": 1183.79,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "abfac613-a7de-4cf4-a43f-b2a782861daf"
+    ]
+  },
+  {
+    "MATNR": "MAT-PULLEY",
+    "MAKTX": "Spare Pulley",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 1,
+    "EKGRP": "OCP",
+    "NETPR": 4034.98,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "fdc3e077-06c1-482c-9af2-9af757c263f5"
+    ]
+  },
+  {
+    "MATNR": "MAT-BEARING",
+    "MAKTX": "Spare Bearing",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 12,
+    "EKGRP": "OCP",
+    "NETPR": 1375.32,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "fdc3e077-06c1-482c-9af2-9af757c263f5"
+    ]
+  },
+  {
+    "MATNR": "MAT-LAGGING",
+    "MAKTX": "Spare Lagging",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 6,
+    "EKGRP": "OCP",
+    "NETPR": 4570.02,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "fdc3e077-06c1-482c-9af2-9af757c263f5"
+    ]
+  },
+  {
+    "MATNR": "MAT-SCRAPER",
+    "MAKTX": "Spare Scraper",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 18,
+    "EKGRP": "OCP",
+    "NETPR": 4388.02,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "0549c0c9-ade5-4fa7-b1ca-9528dce0b376"
+    ]
+  },
+  {
+    "MATNR": "MAT-BELT-SPLICE",
+    "MAKTX": "Spare Belt Splice",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 10,
+    "EKGRP": "OCP",
+    "NETPR": 1102.5,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "21cb85fb-f652-4c2f-aaf8-b5175bf3eb04"
+    ]
+  },
+  {
+    "MATNR": "MAT-BELT-SEGMENT",
+    "MAKTX": "Spare Belt Segment",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 15,
+    "EKGRP": "OCP",
+    "NETPR": 2008.38,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "21cb85fb-f652-4c2f-aaf8-b5175bf3eb04"
+    ]
+  },
+  {
+    "MATNR": "MAT-VOLUTE-LINER",
+    "MAKTX": "Spare Volute Liner",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 20,
+    "EKGRP": "OCP",
+    "NETPR": 2321.32,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "3dd3ccb7-1368-4def-be20-8a9a7e9a4f53"
+    ]
+  },
+  {
+    "MATNR": "MAT-THROAT-BUSH",
+    "MAKTX": "Spare Throat Bush",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 8,
+    "EKGRP": "OCP",
+    "NETPR": 741.17,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "3dd3ccb7-1368-4def-be20-8a9a7e9a4f53"
+    ]
+  },
+  {
+    "MATNR": "MAT-FRAME-PLATE-LINER",
+    "MAKTX": "Spare Frame Plate Liner",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 17,
+    "EKGRP": "OCP",
+    "NETPR": 2717.94,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "3dd3ccb7-1368-4def-be20-8a9a7e9a4f53"
+    ]
+  },
+  {
+    "MATNR": "MAT-DRIVE-END-BEARING",
+    "MAKTX": "Spare Drive End Bearing",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 18,
+    "EKGRP": "OCP",
+    "NETPR": 2170.75,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "c4f86997-95cc-423e-85cd-1ee523feb952"
+    ]
+  },
+  {
+    "MATNR": "MAT-NON-DRIVE-END-BEARIN",
+    "MAKTX": "Spare Non-Drive End Bearing",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 18,
+    "EKGRP": "OCP",
+    "NETPR": 2027.03,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "c4f86997-95cc-423e-85cd-1ee523feb952"
+    ]
+  },
+  {
+    "MATNR": "MAT-BEARING-HOUSING",
+    "MAKTX": "Spare Bearing Housing",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 7,
+    "EKGRP": "OCP",
+    "NETPR": 4986.76,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "c4f86997-95cc-423e-85cd-1ee523feb952"
+    ]
+  },
+  {
+    "MATNR": "MAT-MECHANICAL-SEAL",
+    "MAKTX": "Spare Mechanical Seal",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 4,
+    "EKGRP": "OCP",
+    "NETPR": 2572.16,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "404ec00c-bfdf-4524-8531-9d8dcc5b758a"
+    ]
+  },
+  {
+    "MATNR": "MAT-GLAND-PACKING",
+    "MAKTX": "Spare Gland Packing",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 2,
+    "EKGRP": "OCP",
+    "NETPR": 3791.12,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "404ec00c-bfdf-4524-8531-9d8dcc5b758a"
+    ]
+  },
+  {
+    "MATNR": "MAT-SHAFT-SLEEVE",
+    "MAKTX": "Spare Shaft Sleeve",
+    "MATKL": "SPARE_PARTS",
+    "MEINS": "EA",
+    "LABST": 3,
+    "EKGRP": "OCP",
+    "NETPR": 806.56,
+    "WAERS": "USD",
+    "APPLICABLE_EQUNR": [
+      "404ec00c-bfdf-4524-8531-9d8dcc5b758a"
+    ]
+  }
+]
